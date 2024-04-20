@@ -1,0 +1,3 @@
+- Windows
+- 32bit
+- compile using nasm -f win32 and link with gcc -m32
